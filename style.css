@@ -1,0 +1,21 @@
+table {
+  width: 30px;
+  height: 30px;
+  background-color: none;
+  margin: 0px;
+  padding: 0px;
+}
+tr {
+  background-color: gray;
+}
+li {
+  margin: 0px;
+  padding: 0px;
+  display: inline-block;
+  list-style-type: none;
+}
+#app-button {
+  display: inline-block;
+  margin: 0px;
+  padding: 0px;
+}
