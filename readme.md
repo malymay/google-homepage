@@ -7,10 +7,8 @@ Already done:
 3) Search line;
 4) Buttons below
 
-Already done(2):
-1) Button styling
-2) Google img styling
-3) Positioning
-
-Still to do(2):
+Still to do:
 1) Footer
+2) Button styling
+3) Google img styling
+4) Positioning
