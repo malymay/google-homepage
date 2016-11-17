@@ -12,5 +12,10 @@ Already done(2):
 2) Google img styling
 3) Positioning
 
-Still to do(2):
+Already done(3):
 1) Footer
+2) "Polska" word
+3) Paragraph under search tab
+
+Still to do:
+1) Microphone
