@@ -1,5 +1,5 @@
 # Google Homepage project
-Due to the "HTML/CSS course" within theodinproject.com, the project assumpted making my own google.com page
+Due to the "HTML/CSS course" within www.theodinproject.com, the project assumpted making my own www.google.com page
 
 ## To do list
 
