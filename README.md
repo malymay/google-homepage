@@ -1,3 +1,8 @@
+# Google Homepage project
+Due to the "HTML/CSS course" within @theodinproject.com, the project assumpted making my own @google.com page
+
+## To do list
+
 Already done:
 1) Google img
 2) Navigation bar and linking them:
