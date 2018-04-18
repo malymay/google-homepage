@@ -1,5 +1,17 @@
 # Google Homepage project
+
+### Version 1.0.0
 Due to the "HTML/CSS course" within www.theodinproject.com, the project assumpted making my own www.google.com page
+
+## Getting started
+Before you start you should:
+- install any type of text editor you want to work with, e.g. "Atom" (which I am currently using) to see the code
+- go to the destination, where you want this app to run
+- clone this repo by copying its URL and putting it into a `git clone` command
+
+## How to run the site
+- get into the project folder in your terminal
+- find `index.html` file and click on
 
 ## To do list
 
@@ -24,3 +36,6 @@ Already done(3):
 
 Still to do:
 1) Microphone
+
+## Copyright
+(c) Michał Maj
